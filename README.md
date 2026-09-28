@@ -4,13 +4,13 @@
 
 💻 I build things, break things, fix things — and occasionally wonder why I decided to add that feature in the first place.
 
-🔭 Building **[CodeSmith](https://github.com/subhashkumar65284/CodeSmith)** — a full-stack coding platform
-🧠 Solved **600+ DSA problems** with Java as my weapon of choice
-🚀 Exploring **backend engineering, system design, caching & scalable applications**
-🌱 Currently trying to understand what happens when our “simple backend” meets real-world scale
-👯 Always interested in building **cool and challenging projects** with other developers
-💬 Talk to me about **Java, DSA or anything related to building software**
-⚡ **Current status:** `while(alive) { learn(); build(); debug(); repeat(); }`
+🔭 Building **[CodeSmith](https://github.com/subhashkumar65284/CodeSmith)** — a full-stack coding platform<br>
+🧠 Solved **600+ DSA problems** with Java as my weapon of choice<br>
+🚀 Exploring **backend engineering, system design, caching & scalable applications**<br>
+🌱 Currently trying to understand what happens when our “simple backend” meets real-world scale<br>
+👯 Always interested in building **cool and challenging projects** with other developers<br>
+💬 Talk to me about **Java, DSA or anything related to building software**<br>
+⚡ **Current status:** `while(alive) { learn(); build(); debug(); repeat(); }`<br>
 
 
 ## 🌐 Socials:
